@@ -1,5 +1,5 @@
 # School Donation Analysis
-Image captures,
+Image captures:-
 
 
 <img width="1128" alt="Screenshot 2021-04-05 at 5 29 44 PM" src="https://user-images.githubusercontent.com/35285632/113572130-4df0ec80-9635-11eb-8d3d-87575b1b4a17.png">
